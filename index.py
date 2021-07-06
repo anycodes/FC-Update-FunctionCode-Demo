@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import logging
-HELLO_WORLD = b'Hello world Serverless Devs!\n'
+HELLO_WORLD = b'Hello world Serverless Devs - Github ACTION!\n'
 
 # To enable the initializer feature (https://help.aliyun.com/document_detail/158208.html)
 # please implement the initializer function as below：
